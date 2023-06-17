@@ -3,10 +3,14 @@
 #include <stdio.h>
 
 /**
- * main - Prints the value of number, whether positive, zero, or negative
+ * main - Entry point of the program
+ *
+ * Description: This function is the starting point of program execution.
+ * It generates a random number.
  *
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
         int n;
