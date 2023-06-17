@@ -3,6 +3,7 @@
 #include <stdio.h>
 
 /* main - Prints the value of number, whether possitive, zero or negative
+ *
  * Return: Always (Success)
  *
  */
