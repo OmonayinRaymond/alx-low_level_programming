@@ -2,11 +2,16 @@
 #include <time.h>
 #include <stdio.h>
 
-  /**
- * main - Prints the last digit of a random number
+/**
+ * main - Entry point of the program
+ *
+ * Description: This function is the starting point of program execution.
+ * It generates a random number and prints the last digit along with
+ * additional information based on the digit's value.
  *
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	int n;
