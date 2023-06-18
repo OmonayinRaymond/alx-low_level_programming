@@ -24,7 +24,7 @@ int main(void)
 
 	count = count + 1;
 
-	if (count < 44)
+	if (count <= 44)
 	{
 	putchar(',');
 	putchar(' ');
