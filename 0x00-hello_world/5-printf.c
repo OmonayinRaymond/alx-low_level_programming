@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /**
- *
  * main - Staring point of program
  *
  * Description: A program to use printf
