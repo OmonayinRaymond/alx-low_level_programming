@@ -12,10 +12,9 @@
 
 int main(void)
 {
-	const char Arr[] = "and that piece of art is useful\" - Dora Korpar,\
-		2015-10-19";
+	const char A[] = "and that piece of art is useful\" -Dora Korpar, 2015-10-19";
 
-	write(2, Arr, sizeof(Arr) - 1);
+	write(2, A, sizeof(A) - 1);
 
 	return (1);
 }
