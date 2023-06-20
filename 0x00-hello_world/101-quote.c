@@ -12,8 +12,8 @@
 
 int main(void)
 {
-	const char Arr[] = "and that piece of art is useful\""
-	"- Dora Korpar, 2015-10-19\n";
+	const char Arr[] = "and that piece of art is useful\" - Dora Korpar, "
+				"2015-10-19\n";
 
 	write(2, Arr, sizeof(Arr) - 1);
 
